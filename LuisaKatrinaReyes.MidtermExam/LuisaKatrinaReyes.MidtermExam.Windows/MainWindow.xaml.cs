@@ -13,32 +13,44 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Newtonsoft.Json;
+using System.IO;
 
 namespace LuisaKatrinaReyes.MidtermExam.Windows
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+
+    public class Menu
+    {
+        public title categorys { get; set; }
+    }
+
+    public class title
+    {
+        public string name { get; set; }
+        [JsonProperty("menu-items")]
+        public string mItems { get; set; }
+    }
+
+    public class mItems
+    {
+        public string name { get; set; }
+        [JsonProperty("Sub-items")]
+        public string sItems { get; set; }
+    }
+
+    public class sItems
+    {
+        public string price { get; set; }
+    }
     public partial class MainWindow : Window
     {
         public MainWindow()
         {
             InitializeComponent();
-
-            TreeViewItem Parent1Item = new TreeViewItem();
-            Parent1Item.Header = "Menu";
-            TreeView1.Items.Add(Parent1Item);
-            //
-
-            TreeViewItem Child1Item = new TreeViewItem();
-            Child1Item.Header = "Appeteasers";
-            Parent1Item.Items.Add(Child1Item);
-            //
-            TreeViewItem Child2Item = new TreeViewItem();
-            Child2Item.Header = "Fino Sides";
-            Parent1Item.Items.Add(Child2Item);
-            //
         }
 
+        private void BtnButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

@@ -18,3 +18,25 @@ C:\Users\COMLABPC7\source\repos\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.
 C:\Users\COMLABPC7\source\repos\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\bin\Debug\Newtonsoft.Json.dll
 C:\Users\COMLABPC7\source\repos\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\bin\Debug\Newtonsoft.Json.xml
 C:\Users\COMLABPC7\source\repos\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\obj\Debug\LuisaKatrinaReyes.MidtermExam.Windows.csproj.CopyComplete
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\bin\Debug\LuisaKatrinaReyes.MidtermExam.Windows.exe.config
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\bin\Debug\LuisaKatrinaReyes.MidtermExam.Windows.exe
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\bin\Debug\LuisaKatrinaReyes.MidtermExam.Windows.pdb
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\obj\Debug\LuisaKatrinaReyes.MidtermExam.Windows.csprojAssemblyReference.cache
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\obj\Debug\Form2.g.cs
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\obj\Debug\App.g.cs
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\obj\Debug\LuisaKatrinaReyes.MidtermExam.Windows_MarkupCompile.cache
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\obj\Debug\LuisaKatrinaReyes.MidtermExam.Windows_MarkupCompile.lref
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\obj\Debug\Form2.baml
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\obj\Debug\MainWindow.baml
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\obj\Debug\LuisaKatrinaReyes.MidtermExam.Windows.g.resources
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\obj\Debug\LuisaKatrinaReyes.MidtermExam.Windows.Properties.Resources.resources
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\obj\Debug\LuisaKatrinaReyes.MidtermExam.Windows.csproj.GenerateResource.cache
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\obj\Debug\LuisaKatrinaReyes.MidtermExam.Windows.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\obj\Debug\LuisaKatrinaReyes.MidtermExam.Windows.csproj.CopyComplete
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\obj\Debug\LuisaKatrinaReyes.MidtermExam.Windows.exe
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\obj\Debug\LuisaKatrinaReyes.MidtermExam.Windows.pdb
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\bin\Debug\RestSharp.dll
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\Form1&2\LuisaKatrinaReyes.MidtermExam\LuisaKatrinaReyes.MidtermExam.Windows\bin\Debug\RestSharp.xml

@@ -7,10 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="1671" Width="800">
     <Grid>
-        <Button x:Name="btnButton" Content="Click this Button to Load data" HorizontalAlignment="Left" Height="33" Margin="36,26,0,0" VerticalAlignment="Top" Width="714" FontSize="20"/>
-        <TreeView x:Name="TreeView1" Margin="10,86,10,10">
-            <TreeViewItem Background="White"/>
-        </TreeView>
+        <Button x:Name="btnButton" Content="Click this Button to Load data" HorizontalAlignment="Left" Height="33" Margin="36,26,0,0" VerticalAlignment="Top" Width="714" FontSize="20" Click="BtnButton_Click"/>
+        <TreeView x:Name="TreeView1" Margin="36,86,42,10"/>
+        
 
     </Grid>
 </Window>
