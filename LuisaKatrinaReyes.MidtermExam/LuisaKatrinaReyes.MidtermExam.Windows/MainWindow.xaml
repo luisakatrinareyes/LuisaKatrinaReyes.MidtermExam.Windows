@@ -8,7 +8,7 @@
         Title="MainWindow" Height="1671" Width="800">
     <Grid>
         <Button x:Name="btnButton" Content="Click this Button to Load data" HorizontalAlignment="Left" Height="33" Margin="36,26,0,0" VerticalAlignment="Top" Width="714" FontSize="20" Click="BtnButton_Click"/>
-        <TreeView x:Name="TreeView1" Margin="36,86,42,10"/>
+        <TreeView x:Name="TreeView1" Margin="36,86,42,10" MouseDoubleClick="TreeView1_MouseDoubleClick" FontSize="16"/>
         
 
     </Grid>

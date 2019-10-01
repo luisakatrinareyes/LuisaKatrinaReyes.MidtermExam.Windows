@@ -5,8 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LuisaKatrinaReyes.MidtermExam.Windows"
         mc:Ignorable="d"
-        Title="Form2" Height="450" Width="800">
+        Title="Form2" Height="450" Width="800" Loaded="Windows_Loaded">
+
     <Grid>
-        
+        <Label x:Name="lblPrice" Content="Label" HorizontalAlignment="Left" Height="75" Margin="77,187,0,0" VerticalAlignment="Top" Width="600" FontSize="24"/>
+        <Label x:Name="lblDesc" Content="Label" HorizontalAlignment="Left" Height="75" Margin="77,239,0,0" VerticalAlignment="Top" Width="600" FontSize="24"/>
+        <Label x:Name="lblDiscount" Content="Label" HorizontalAlignment="Left" Height="75" Margin="77,300,0,0" VerticalAlignment="Top" Width="600" FontSize="24"/>
+        <Label x:Name="lblName" Content="Label" HorizontalAlignment="Left" Height="103" Margin="77,84,0,0" VerticalAlignment="Top" Width="635" FontSize="48"/>
+
     </Grid>
 </Window>
